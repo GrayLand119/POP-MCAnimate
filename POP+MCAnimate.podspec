@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author   = { 'Matthew Cheok' => 'cheok.jz@gmail.com' }
   s.requires_arc = true
   s.source   = {
-    :git => 'https://github.com/matthewcheok/POP-MCAnimate.git',
+    :git => 'https://github.com/GrayLand119/POP-MCAnimate.git',
     :branch => 'master',
     :tag => s.version.to_s
   }
